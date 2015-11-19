@@ -1,0 +1,14 @@
+.banner{
+	position: relative
+}
+
+.banner-text{
+	position:absolute;
+	top: 150px;
+	left: 0;
+	width: 100%;
+	margin: 0 auto;
+	height: 100px;
+	text-align: center;
+}
+
