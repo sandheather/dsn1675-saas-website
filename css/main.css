@@ -59,3 +59,18 @@ text-align: center;
 header{
 	background-color: #d5ccdf;
 }
+
+label{
+	display: block;
+	cursor: pointer;
+}
+
+input + label{
+	display: inline;
+}
+
+.submit button{
+
+	font-size: 1.6rem;
+	color: #87b8bd;
+}
