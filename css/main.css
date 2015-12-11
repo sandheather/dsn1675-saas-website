@@ -85,4 +85,20 @@ input + label{
 	background-color: #fff;
 }
 
+@media only screen and (min-width: 38em) {
+
+.banner-text{
+		top: 140px;
+}
+
+.banner-under{
+		top:280px;
+}
+
+.banner-button{
+		top: 360px;
+	}
+
+}
+
 }
