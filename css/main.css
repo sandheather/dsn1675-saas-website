@@ -32,8 +32,13 @@
 	text-align: center;
 }
 
-nav{
+nav a{
 	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #ad96c7;
 }
 
 .fancy{
