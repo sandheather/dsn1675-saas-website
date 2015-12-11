@@ -85,6 +85,10 @@ input + label{
 	background-color: #fff;
 }
 
+.submit{
+	padding-top: 1rem;
+}
+
 @media only screen and (min-width: 38em) {
 
 .banner-text{
