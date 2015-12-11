@@ -101,4 +101,18 @@ input + label{
 
 }
 
+
+@media only screen and (min-width: 60em) {
+
+.banner-text{
+		top: 300px;
+}
+
+.banner-under{
+		top:380px;
+}
+
+.banner-button{
+		top: 460px;
+}
 }
