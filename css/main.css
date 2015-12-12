@@ -32,6 +32,12 @@
 	text-align: center;
 }
 
+.border{
+	border: solid;
+	border-color: #e5efee;
+	border-width: 5rem;
+}
+
 nav a{
 	font-family: 'Raleway', sans-serif;
 	text-decoration: none;
