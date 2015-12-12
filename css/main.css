@@ -35,7 +35,7 @@
 .border{
 	border: solid;
 	border-color: #e5efee;
-	border-width: 5rem;
+	border-width: 2rem;
 }
 
 nav a{
@@ -109,6 +109,10 @@ input + label{
 		top: 360px;
 	}
 
+.border{
+	border-width: 3rem;
+}
+
 }
 
 
@@ -125,4 +129,9 @@ input + label{
 .banner-button{
 		top: 460px;
 }
+
+.border{
+	border-width: 6rem;
+}
+
 }
